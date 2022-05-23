@@ -1,0 +1,6 @@
+framework module Pods_ExLoading {
+  umbrella header "Pods-ExLoading-umbrella.h"
+
+  export *
+  module * { export * }
+}
